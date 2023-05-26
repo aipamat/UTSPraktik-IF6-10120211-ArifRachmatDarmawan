@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">UTSPraktik-IF6-10120211-ArifRachmatDarmawan</string>
+    <string name="pelaksanaan_ppdb_tahap_1_2023">Pelaksanaan PPDB Tahap 1 - 2023</string>
+    <string name="banner">banner</string>
+    <string name="detail">Detail</string>
+    <string name="persiapan">Persiapan</string>
+    <string name="_17_mei_05_juni_2023">17 Mei - 05 Juni 2023</string>
+    <string name="dokumen">dokumen</string>
+    <string name="pengumuman_hasil_seleksi">Pengumuman Hasil Seleksi</string>
+    <string name="layanan_ppdb">Layanan PPDB</string>
+    <string name="info_sekolah_ppdb">Info Sekolah PPDB</string>
+    <string name="sosialisasi_ppdb">Sosialisasi PPDB</string>
+    <string name="pendaftaran_ppdb_tahap_1">Pendaftaran PPDB Tahap 1</string>
+    <string name="button_panah">Button Panah</string>
+    <string name="berita_terkait_ppdb">Berita Terkait PPDB</string>
+    <string name="anda_dinyatakan_diterima_di">Anda dinyatakan diterima di</string>
+    <string name="sma_negeri_1_bojong_gede">SMA Negeri 1 Bojong gede</string>
+    <string name="dapatkan_semua_informasi_terbaru_dan_terpopuler_terkait_ppdb">Dapatkan semua informasi terbaru dan terpopuler terkait PPDB</string>
+    <string name="title_berita_1">PPDB SMA/ SMK 2022, Ridwan Kamil: PPDB di Jawa Barat Semakin Adil dan Andal</string>
+    <string name="title_berita_2">Persiapan PPDB Jabar Tahun 2021 Sudah Matang</string>
+    <string name="title_berita_3">Pelaksana Teknis PPDB Harus Evaluasi Diri</string>
+    <string name="title_berita_4">Masih ditemukan \'Blank Spot\' dalam Proses PPDB Kabupaten Cianjur</string>
+    <string name="title_berita_5">Bupati Purwakarta Hadiri Pembukaan Masa Pengenalan Lingkungan Sekolah</string>
+    <string name="deskripsi_berita_1">Pendidikan • 15 jam yang lalu</string>
+    <string name="deskripsi_berita_2">Pendidikan • 4 Juni 2022</string>
+    <string name="deskripsi_berita_3">Pendidikan • 24 Mei 2022</string>
+    <string name="deskripsi_berita_4">Pendidikan • 24 Mei 2022</string>
+    <string name="deskripsi_berita_5">Pendidikan • 19 Juli 2022</string>
+</resources>
